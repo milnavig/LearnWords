@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LearnWords</string>
+    <string name="learn_words_easily">Learn words easily!</string>
+    <string name="list_of_words">LIST OF WORDS</string>
+    <string name="add_word">ADD WORD</string>
+    <string name="remind">REMIND</string>
+    <string name="book_hotel">Book Hotel</string>
+    <string name="Price">Сумарна ціна</string>
+    <string name="_600_99">600.99 ₴</string>
+    <string name="True">Підтверджено</string>
+    <string name="_56">вул. Гарматна, 56, м. Київ</string>
+    <string name="Reg">Реєстрація:</string>
+    <string name="_5_2022">5-го листопада 2022.</string>
+    <string name="_3_2">3 ночей. 2 гостей.</string>
+    <string name="Ex">Подробиці</string>
+    <string name="_61228459">Номер бронювання: 61228459</string>
+    <string name="_6_2020">Дата замовлення: 6-го квітня 2020</string>
+</resources>
